@@ -1,0 +1,58 @@
+# training configs
+status: train
+name: TCLNET
+train_batch_size: 4
+test_batch_size: 1
+gpu_ids: 0
+test_epoch: 65
+epoch: 65
+scheduler_epoch: [65]
+gamma: 0.2
+resume_epoch: 50
+learning_rate: 0.00005
+
+
+# model, dataset and preprocess options
+model: TCLNET_STAGE2
+dataset_mode: heatmap
+dataroot: datasets/data/TCLD
+img_size: 512
+crop_scale: 1.12
+flip: True
+norm_type: standard
+
+
+# non-model specific & basic configs
+checkpoints_dir: checkpoints
+results_dir: testing
+save_epoch_freq: 1
+init_type: normal
+init_gain: 0.02
+lr_policy: step
+print_freq: 20
+num_threads: 4
+verbose: False
+use_visdom: True
+display_freq: 20
+display_winsize: 512
+display_ncols: 4
+display_id: 1
+display_server: http://localhost
+display_env: main
+display_port: 8097
+update_html_freq: 500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
