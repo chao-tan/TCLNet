@@ -12,11 +12,11 @@ Click [here](https://这里放置论文主页的链接) for more details.
 ## Dataset & Pretrained Model
 TCLD (Typhoon Center Location Dataset) is a brand new typhoon center location dataset for deep learning research.
 It contains 1809 grayscale images for training and another 319 images for testing.
-Our TCLD dataset is available for download at [TianYiCloud(600MB)](https://这里放置TCLD数据集的天翼云盘链接) or [BaiduCloud(600MB)](https://这里放置TCLD数据集的百度云盘链接).      
+Our TCLD dataset is available for download at [TianYiCloud(600MB)](https://cloud.189.cn/t/vYfqyu2iMbyu) or [BaiduCloud(600MB)](https://pan.baidu.com/s/1ej_35e1hJgynOrDHjbmeYQ)(extraction code: ixmb).      
 You can get the TCLD dataset at any time but only for scientific research. 
 At the same time, please cite our work when you use the TCLD dataset.
 
-The pretrained model of our TCLNet on TCLD dataset can be download at [TianYiCloud](https://这里放置预训练模型的天翼云盘链接) or [BaiduCloud](https://这里放置预训练模型的百度云盘链接).
+The pretrained model of our TCLNet on TCLD dataset can be download at [TianYiCloud](https://cloud.189.cn/t/Ar2m2qfm2eaa) or [BaiduCloud](https://pan.baidu.com/s/1bTUAi0KEYbwoWUgQ9JysFg) (extraction code: 8l1j).
 
 
         
