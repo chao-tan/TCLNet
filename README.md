@@ -1,10 +1,10 @@
 # TCLNet: Learning to Locate Typhoon Center using Deep Neural Network
 
 
-This repository contains the source code, dataset and pretrained model for TCLNet, provided by [Chao Tan](https://这里放置作者个人主页).
+This repository contains the source code, dataset and pretrained model for TCLNet, provided by [Chao Tan](https://chao-tn.gitee.io).
 
-The paper is avaliable for download [here](https://这里放置论文的arxiv下载链接). 
-Click [here](https://这里放置论文主页的链接) for more details.
+The paper is avaliable for download [here](https://arxiv.org/abs/2010.01282). 
+Click [here](https://chao-tan.gitee.io/projects/tcl-net/project-page.html) for more details.
 
 
 ***
