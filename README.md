@@ -44,4 +44,10 @@ The pretrained model of our TCLNet on TCLD dataset can be download at [TianYiClo
 
 ## Citation
 
-Update soon...
+@inproceedings{      
+&nbsp;&nbsp;&nbsp;&nbsp;  title={{TCLNet}: Learning to Locate Typhoon Center Using Deep Neural Network},         
+&nbsp;&nbsp;&nbsp;&nbsp;  author={Tan, Chao},         
+&nbsp;&nbsp;&nbsp;&nbsp;  booktitle={IGARSS},        
+&nbsp;&nbsp;&nbsp;&nbsp;  year={2021},        
+&nbsp;&nbsp;&nbsp;&nbsp;  note={to appear},       
+}
